@@ -1,0 +1,16 @@
+C:\Users\cborazan\source\repos\Pratikler\diziler-array-sınıfı-metodlari\bin\Debug\net5.0\diziler-array-sınıfı-metodlari.exe
+C:\Users\cborazan\source\repos\Pratikler\diziler-array-sınıfı-metodlari\bin\Debug\net5.0\diziler-array-sınıfı-metodlari.deps.json
+C:\Users\cborazan\source\repos\Pratikler\diziler-array-sınıfı-metodlari\bin\Debug\net5.0\diziler-array-sınıfı-metodlari.runtimeconfig.json
+C:\Users\cborazan\source\repos\Pratikler\diziler-array-sınıfı-metodlari\bin\Debug\net5.0\diziler-array-sınıfı-metodlari.runtimeconfig.dev.json
+C:\Users\cborazan\source\repos\Pratikler\diziler-array-sınıfı-metodlari\bin\Debug\net5.0\diziler-array-sınıfı-metodlari.dll
+C:\Users\cborazan\source\repos\Pratikler\diziler-array-sınıfı-metodlari\bin\Debug\net5.0\ref\diziler-array-sınıfı-metodlari.dll
+C:\Users\cborazan\source\repos\Pratikler\diziler-array-sınıfı-metodlari\bin\Debug\net5.0\diziler-array-sınıfı-metodlari.pdb
+C:\Users\cborazan\source\repos\Pratikler\diziler-array-sınıfı-metodlari\obj\Debug\net5.0\diziler-array-sınıfı-metodlari.csproj.AssemblyReference.cache
+C:\Users\cborazan\source\repos\Pratikler\diziler-array-sınıfı-metodlari\obj\Debug\net5.0\diziler-array-sınıfı-metodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cborazan\source\repos\Pratikler\diziler-array-sınıfı-metodlari\obj\Debug\net5.0\diziler-array-sınıfı-metodlari.AssemblyInfoInputs.cache
+C:\Users\cborazan\source\repos\Pratikler\diziler-array-sınıfı-metodlari\obj\Debug\net5.0\diziler-array-sınıfı-metodlari.AssemblyInfo.cs
+C:\Users\cborazan\source\repos\Pratikler\diziler-array-sınıfı-metodlari\obj\Debug\net5.0\diziler-array-sınıfı-metodlari.csproj.CoreCompileInputs.cache
+C:\Users\cborazan\source\repos\Pratikler\diziler-array-sınıfı-metodlari\obj\Debug\net5.0\diziler-array-sınıfı-metodlari.dll
+C:\Users\cborazan\source\repos\Pratikler\diziler-array-sınıfı-metodlari\obj\Debug\net5.0\ref\diziler-array-sınıfı-metodlari.dll
+C:\Users\cborazan\source\repos\Pratikler\diziler-array-sınıfı-metodlari\obj\Debug\net5.0\diziler-array-sınıfı-metodlari.pdb
+C:\Users\cborazan\source\repos\Pratikler\diziler-array-sınıfı-metodlari\obj\Debug\net5.0\diziler-array-sınıfı-metodlari.genruntimeconfig.cache
